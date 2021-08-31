@@ -1,2 +1,2 @@
-# CPE322
-Spring 2021 CPE 322 Course
+# CPE487
+Fall 2021 CPE 487 Course
