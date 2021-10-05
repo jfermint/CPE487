@@ -1,4 +1,4 @@
-#source: http://esd.cs.ucr.edu/labs/tutorial/
+--source: http://esd.cs.ucr.edu/labs/tutorial/
 
 library IEEE;
 use IEEE.std_logic_1164.all;
