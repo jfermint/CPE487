@@ -2,7 +2,7 @@
 
 library IEEE;
 use IEEE.std_logic_1164.all;
-use IEEE.std_logic_arith.all;
+use IEEE.numeric_std.all;
 
 entity DECODER_TB is			-- entity declaration
 end DECODER_TB;
